@@ -23,7 +23,7 @@ Ini adalah aplikasi web portfolio pribadi berbasis React untuk memperkenalkan di
 1. Clone repositori:
    ```bash
    git clone https://github.com/AryaForGH/clireact.git
-   cd portfolio-arya
+   cd clireact
    ```
 
 2. Install dependencies:
