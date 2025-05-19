@@ -12,7 +12,7 @@ function App() {
             <q>Kode yang indah, berasal dari ketekunan yang nyata.💻</q>
           </div>
           <h1 className="text-5xl/tight font-bold mb-6">Hii, Saya Arya Ramadhan</h1>
-          <p className="text-base/loose mb-6 opacity-50">Saya mempunyai ketertarikan dalam bidang Programming dan Data, terutama pada pembuatan Website dan Menganalisis Data. Ketertarikan ini sudha berlangsung lebih dari 5 tahun untuk Programming.</p>
+          <p className="text-base/loose mb-6 opacity-50">Saya mempunyai ketertarikan dalam bidang Programming dan Data, terutama pada pembuatan Website dan Menganalisis Data. Ketertarikan ini sudah berlangsung lebih dari 5 tahun untuk Programming.</p>
           <div className="flex items-center sm:gap-4 gap-2">
             <a href="#" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-500"> 
               Download CV <i className="ri-download-2-line ri-lg"></i>
